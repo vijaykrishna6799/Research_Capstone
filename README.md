@@ -1,2 +1,15 @@
 # Research_Capstone
-Capstone Project Dec 2022
+
+
+This Repository Contains the Research Capstone as a part of my Masters ciricullum.
+
+
+A Privacy Preserving Algorithm for Graph Spanners
+
+Softwares Used
+
+- Python 3
+(Pandas, Numpy, Networkx, PulP Packages)
+
+
+
