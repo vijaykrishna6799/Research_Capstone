@@ -13,3 +13,6 @@ Softwares Used
 
 - For Complete Project Description See the Presentation below (presentation_main.pdf)
 
+- data contains the datasets which were used in this project
+- implemented the project on various social networking data (like Facebook)
+
